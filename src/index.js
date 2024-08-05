@@ -8,7 +8,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
-    <div>changes for new-features branch2</div>
+    <div>changes for new-features branch3</div>
   </React.StrictMode>
 );
 
